@@ -32,18 +32,18 @@ This analysis lacks predictive value due to the limited data available; cursory 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-o	May is the best month for launching Kickstarter funding campaigns for theater productions; this is when the most campaigns are launched and when the probability for success is the greatest. December is the worst month; when the fewest campaigns are launched and when the probability for success is lowest.
+  o	May is the best month for launching Kickstarter funding campaigns for theater productions; this is when the most campaigns are launched and when the probability for success is the greatest. December is the worst month; when the fewest campaigns are launched and when the probability for success is lowest.
 
 - What can you conclude about the Outcomes based on Goals?
 
-o	Funding goals of less than $5,000 are relatively easy to achieve; funding success becomes progressively more difficult as goals increase beyond $5,000. More data on the fundraising organizations is needed to identify what factors drive success of theater Kickstarter campaigns for larger amounts.
+  o	Funding goals of less than $5,000 are relatively easy to achieve; funding success becomes progressively more difficult as goals increase beyond $5,000. More data on the fundraising organizations is needed to identify what factors drive success of theater Kickstarter campaigns for larger amounts.
 
 - What are some limitations of this dataset?
 
-o	The dataset provides few details on the internal attributes of each funding campaign; the only variables are the number of financial backers and whether a production was a “staff pick” or “spotlight.” There is no information on the individuals and organizations associated with each funding campaign, so we can’t tell if there are people with track records of success or failure. 
+  o	The dataset provides few details on the internal attributes of each funding campaign; the only variables are the number of financial backers and whether a production was a “staff pick” or “spotlight.” There is no information on the individuals and organizations associated with each funding campaign, so we can’t tell if there are people with track records of success or failure. 
 
 - What are some other possible tables and/or graphs that we could create?
 
-o	We should merge the two data threads analyzed here to examine if the size of funding goals varies by month and if there is any correlation between fundraising success, timing, and the size of fundraising goals. A first cut at this analysis would come include four line graphs similar to “Theater Outcomes by Launch Date,” with each graph corresponding to a fundraising level (e.g., <$5k, $5-15k, $15-25k, $50k>).
+  o	We should merge the two data threads analyzed here to examine if the size of funding goals varies by month and if there is any correlation between fundraising success, timing, and the size of fundraising goals. A first cut at this analysis would come include four line graphs similar to “Theater Outcomes by Launch Date,” with each graph corresponding to a fundraising level (e.g., <$5k, $5-15k, $15-25k, $50k>).
 
-o	We should map funding success rates against other variables provided in the data set – country, staff pick, spotlight, # of backers, and average donation size – to see if there are any correlations. These graphs would mirror the form of the “Outcomes Based on Goal” graph, replacing the x-axis value (funding goal) with other variables (or combinations of variables).
+  o	We should map funding success rates against other variables provided in the data set – country, staff pick, spotlight, # of backers, and average donation size – to see if there are any correlations. These graphs would mirror the form of the “Outcomes Based on Goal” graph, replacing the x-axis value (funding goal) with other variables (or combinations of variables).
