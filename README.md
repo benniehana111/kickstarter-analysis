@@ -12,6 +12,8 @@ This project documents the outcomes of funding campaigns for theatre productions
 
 To analyze the relationship between funding campaign success and the month in which they were launched, this project includes a pivot table displaying the number of campaigns which succeeded, failed, or were canceled based on the month in which the campaigns were launched. This table is presented in a line graph titled “Theater Outcomes Based on Launch Date” which displays the number of funding campaigns on the y-axis and the launch month of the campaigns on the x-axis. 
 
+Theater_Outcomes_by_Launch_Date.png
+
 This graph allows the viewer to visually compare the number of successful, failed, and canceled campaigns in each month of the year. The highest success rate for funding campaigns occurs in the month of May when approximately 2/3 of all campaigns (111 out of 166) succeed; this is also the peak month for launching campaigns. The number of successful campaigns continually declines from June through December (to a low of 37), then rebounds to an intermediate range (56 to 71) in January through April.
 
 The lowest success rates occur in the month of December when only about 1/2 (37 out of 75) of all campaigns achieve their funding goal. The number of failed campaigns per month is more stable, ranging from a low of 31 in November to a high of 52 in May. Canceled campaigns are relatively uncommon; only 37 cancellations occurred out of 1,369 funding campaigns.
@@ -19,6 +21,8 @@ The lowest success rates occur in the month of December when only about 1/2 (37 
 ### Analysis of Outcomes Based on Goals
 
 To analyze the relationship between funding campaign success and the size of funding goals, this project includes a pivot table displaying the number of campaigns which succeeded, failed, or were canceled based across twelve funding levels ranging from less than $1,000 to greater than $50,000. This table is presented in a line graph titled “Outcomes Based on Goal” which displays the percentage of funding campaigns on the y-axis and the size of their funding goals along the x-axis. 
+
+Outcomes_Based_on_Goal.png
 
 This graph allows the viewer to visually compare the percentages of successful, failed, and canceled campaigns based on the size of their funding goals. The highest funding success rates occur in campaigns seeking less than $5,000. The proportion of failed campaigns rises steeply as the funding goal increases, surpassing the number of successful campaigns at funding goals above $20k. 
 
